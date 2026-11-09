@@ -1,0 +1,19 @@
+.para {
+  height: 20px;
+  width: 50%;
+  background-color: rgb(164, 164, 18);
+  padding: 10px;
+}
+.active-btn {
+  background-color: darkgreen;
+  color: wheat;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+}
+
+.dark-mode-on {
+  background-color: black;
+  color: white;
+}
